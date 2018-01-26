@@ -1,0 +1,25 @@
+Software used for developing the application:
+
+•	OS				Windows XP
+•	Tool			NetBeans IDE 7.1.2
+•	Language		JAVA
+•	Technology	vlcj class
+•	Platform		jdk 1.7.0_04
+
+Minimum Hardware and Software Requirements at Client level:
+
+HARDWARE-
+•	Processor-Intel Pentium 4
+•	RAM-256 MB
+•	Hard Disk Space-40.0 kB
+•	Speakers
+
+SOFTWARE-
+•	Jdk 1.7.0_04
+•	NetBeans IDE 7.1.2
+•	vlcj.jar files
+•	Vlc media player 2.0.1
+
+
+
+

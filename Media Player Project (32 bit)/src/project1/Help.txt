@@ -1,0 +1,26 @@
+Welcome to Vlcj media player Help
+
+
+Documentation
+If you are a newcomer to vlcj media player, please read "Introduction to vlcj media player".
+You will find some information on how to use the player in "How to use".
+
+Introduction to Vlcj media player:
+Vlcj media player is a free media player.
+Vlcj is a java based application and can run in any operating system but requires jvm.
+This player has all features of a good media player.Its very easy to use.
+
+How to use?
+1. Click "open" to open the media file(audio or video).
+2. Choose the file you want to play.
+3. Then click "open" on the dialog or double click on the media file.
+4. The symbols for play,pause and stop have their usual meanings.
+5. You can add a new playlist and also update the existing playlist.
+
+AUTHORS
+The contributors to this vlcj player are:
+Ankita Singh
+Divya Vashista
+Nayan Chandni
+Nikita Khosla
+
